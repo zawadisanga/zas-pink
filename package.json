@@ -1,7 +1,7 @@
 {
-  "name": "zas-pink-calling-app",
-  "version": "1.0.0",
-  "description": "ZAS Pink Edition - Free Calling App with Beautiful UI",
+  "name": "zas-fixed-app",
+  "version": "3.0.0",
+  "description": "ZAS Fixed - Stable Calling App with Real Payment System",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

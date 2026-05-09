@@ -1,7 +1,7 @@
 {
-  "name": "zas-fixed-app",
-  "version": "3.0.0",
-  "description": "ZAS Fixed - Stable Calling App with Real Payment System",
+  "name": "zas-real-app",
+  "version": "4.0.0",
+  "description": "ZAS Real - Working Payment System with Real Deductions",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,7 +12,8 @@
     "socket.io": "^4.6.1",
     "dotenv": "^16.3.1",
     "cors": "^2.8.5",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "axios": "^1.6.0"
   },
   "engines": {
     "node": "18.x"
